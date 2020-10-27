@@ -1,1 +1,1 @@
-# kimochi
+#1 create flie .env, copy file .env.example paste to file .env
